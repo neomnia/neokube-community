@@ -1,61 +1,63 @@
 NeoKube Community Non-Production License (NKCL) — Version 1.0
 Copyright (c) 2026 Neomnia Studio — Charles Vandendriessche
-Tous droits réservés.
+All rights reserved.
 
 ═══════════════════════════════════════════════════════════════
-ARTICLE 1 — OBJECTIF ET ESPRIT DE CETTE LICENCE
+ARTICLE 1 — PURPOSE
 ═══════════════════════════════════════════════════════════════
 
-Cette licence a pour objectif de permettre à la communauté des développeurs,
-chercheurs et intégrateurs d'accéder librement au Logiciel NeoKube pour
-découvrir, apprendre, expérimenter et contribuer, tout en réservant les
-usages commerciaux en production au cadre contractuel de Neomnia Studio.
+This license allows developers, researchers, and integrators to
+freely access the NeoKube software to discover, learn, experiment,
+and contribute, while reserving commercial production usage for
+Neomnia Studio's contractual framework.
 
 ═══════════════════════════════════════════════════════════════
-ARTICLE 2 — DÉFINITIONS
+ARTICLE 2 — DEFINITIONS
 ═══════════════════════════════════════════════════════════════
 
-"Logiciel" désigne tout code source, configuration, agent, workflow,
-documentation et ressource publié dans ce dépôt, sous la marque NeoKube
-Community, développés par Neomnia Studio.
+"Software" means any source code, configuration, agent, workflow,
+documentation, and resource published in this repository under the
+NeoKube Community brand, developed by Neomnia Studio.
 
-"Usage autorisé" désigne tout usage à des fins de :
-  - recherche académique ou personnelle ;
-  - développement local et expérimentation ;
-  - démonstration interne ou preuve de concept (POC) non facturée ;
-  - contribution ouverte au présent dépôt.
+"Permitted Use" means any use for:
+  - academic or personal research;
+  - local development and experimentation;
+  - internal demonstration or non-billed proof of concept (POC);
+  - open contribution to this repository.
 
-"Usage interdit" désigne tout déploiement ou usage générant un revenu
-direct ou indirect, ou exposé à des utilisateurs finaux en conditions
-de production (voir Article 4).
-
-═══════════════════════════════════════════════════════════════
-ARTICLE 3 — DROITS ACCORDÉS
-═══════════════════════════════════════════════════════════════
-
-Neomnia Studio accorde, gratuitement et sans limitation de durée, le droit
-de :
-
-  a) Consulter, télécharger et modifier le Logiciel pour tout Usage autorisé ;
-  b) Partager le Logiciel ou des dérivés à des fins non commerciales, à
-     condition de conserver la présente licence et la mention de copyright ;
-  c) Contribuer au dépôt via pull request, selon les règles de contribution
-     définies par Neomnia Studio.
+"Prohibited Use" means any deployment or usage generating direct
+or indirect revenue, or exposed to end users in production
+conditions (see Article 4).
 
 ═══════════════════════════════════════════════════════════════
-ARTICLE 4 — USAGES INTERDITS
+ARTICLE 3 — GRANTED RIGHTS
 ═══════════════════════════════════════════════════════════════
 
-Sont strictement interdits sans licence commerciale préalable :
+Neomnia Studio grants, free of charge and without time limitation,
+the right to:
 
-  a) Tout déploiement en environnement de production accessible à des
-     utilisateurs finaux, clients, employés ou partenaires ;
-  b) Toute intégration dans un service SaaS, une application métier ou
-     un workflow automatisé à vocation commerciale ;
-  c) Toute revente, redistribution commerciale ou sous-licence à un tiers ;
-  d) Tout usage dans le cadre d'une prestation de services facturée.
+  a) View, download, and modify the Software for any Permitted Use;
+  b) Share the Software or derivatives for non-commercial purposes,
+     provided this license and the copyright notice are retained;
+  c) Contribute to this repository via pull request, in accordance
+     with the contribution guidelines defined by Neomnia Studio.
 
-Pour passer en production, contacter :
+═══════════════════════════════════════════════════════════════
+ARTICLE 4 — PROHIBITED USES
+═══════════════════════════════════════════════════════════════
+
+The following are strictly prohibited without a prior commercial
+license agreement with Neomnia Studio:
+
+  a) Any deployment in a production environment accessible to end
+     users, customers, employees, or partners;
+  b) Any integration into a SaaS service, business application, or
+     automated workflow with a commercial purpose;
+  c) Any resale, commercial redistribution, or sublicensing to a
+     third party;
+  d) Any use in the context of a billed service engagement.
+
+To move to production, contact:
   → commercial@neomnia.net
   → https://neomnia.net
 
@@ -63,35 +65,38 @@ Pour passer en production, contacter :
 ARTICLE 5 — CONTRIBUTIONS
 ═══════════════════════════════════════════════════════════════
 
-Toute contribution soumise à ce dépôt est réputée cédée sous les termes
-de la présente licence. Le contributeur garantit qu'il détient les droits
-nécessaires sur sa contribution et qu'elle ne viole aucun droit tiers.
+Any contribution submitted to this repository is deemed licensed
+under the terms of this license. The contributor warrants that
+they hold the necessary rights to their contribution and that it
+does not infringe any third-party rights.
 
-Neomnia Studio se réserve le droit d'intégrer les contributions dans la
-version commerciale (Kubinote-GitOps / NKPL), sans obligation de
-compensation financière, sauf accord explicite préalable.
-
-═══════════════════════════════════════════════════════════════
-ARTICLE 6 — PROPRIÉTÉ INTELLECTUELLE
-═══════════════════════════════════════════════════════════════
-
-Neomnia Studio reste propriétaire exclusif de l'ensemble des droits de
-propriété intellectuelle sur le Logiciel. Cette licence ne constitue
-aucune cession de droits.
+Neomnia Studio reserves the right to incorporate contributions
+into the commercial version (Kubinote-GitOps / NKPL) without
+financial compensation, unless explicitly agreed otherwise.
 
 ═══════════════════════════════════════════════════════════════
-ARTICLE 7 — EXCLUSION DE GARANTIE
+ARTICLE 6 — INTELLECTUAL PROPERTY
 ═══════════════════════════════════════════════════════════════
 
-LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE
-OU IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER LES GARANTIES DE QUALITÉ
-MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+Neomnia Studio retains exclusive ownership of all intellectual
+property rights in the Software. This license does not constitute
+any transfer of rights.
 
 ═══════════════════════════════════════════════════════════════
-ARTICLE 8 — DROIT APPLICABLE
+ARTICLE 7 — DISCLAIMER OF WARRANTY
 ═══════════════════════════════════════════════════════════════
 
-Droit français applicable. Tribunal compétent : Paris.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 8 — GOVERNING LAW
+═══════════════════════════════════════════════════════════════
+
+This license is governed by French law.
+Jurisdiction: Paris courts.
 
 ═══════════════════════════════════════════════════════════════
 ARTICLE 9 — CONTACT
