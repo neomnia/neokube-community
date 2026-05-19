@@ -1,0 +1,103 @@
+NeoKube Community Non-Production License (NKCL) — Version 1.0
+Copyright (c) 2026 Neomnia Studio — Charles Vandendriessche
+Tous droits réservés.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 1 — OBJECTIF ET ESPRIT DE CETTE LICENCE
+═══════════════════════════════════════════════════════════════
+
+Cette licence a pour objectif de permettre à la communauté des développeurs,
+chercheurs et intégrateurs d'accéder librement au Logiciel NeoKube pour
+découvrir, apprendre, expérimenter et contribuer, tout en réservant les
+usages commerciaux en production au cadre contractuel de Neomnia Studio.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 2 — DÉFINITIONS
+═══════════════════════════════════════════════════════════════
+
+"Logiciel" désigne tout code source, configuration, agent, workflow,
+documentation et ressource publié dans ce dépôt, sous la marque NeoKube
+Community, développés par Neomnia Studio.
+
+"Usage autorisé" désigne tout usage à des fins de :
+  - recherche académique ou personnelle ;
+  - développement local et expérimentation ;
+  - démonstration interne ou preuve de concept (POC) non facturée ;
+  - contribution ouverte au présent dépôt.
+
+"Usage interdit" désigne tout déploiement ou usage générant un revenu
+direct ou indirect, ou exposé à des utilisateurs finaux en conditions
+de production (voir Article 4).
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 3 — DROITS ACCORDÉS
+═══════════════════════════════════════════════════════════════
+
+Neomnia Studio accorde, gratuitement et sans limitation de durée, le droit
+de :
+
+  a) Consulter, télécharger et modifier le Logiciel pour tout Usage autorisé ;
+  b) Partager le Logiciel ou des dérivés à des fins non commerciales, à
+     condition de conserver la présente licence et la mention de copyright ;
+  c) Contribuer au dépôt via pull request, selon les règles de contribution
+     définies par Neomnia Studio.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 4 — USAGES INTERDITS
+═══════════════════════════════════════════════════════════════
+
+Sont strictement interdits sans licence commerciale préalable :
+
+  a) Tout déploiement en environnement de production accessible à des
+     utilisateurs finaux, clients, employés ou partenaires ;
+  b) Toute intégration dans un service SaaS, une application métier ou
+     un workflow automatisé à vocation commerciale ;
+  c) Toute revente, redistribution commerciale ou sous-licence à un tiers ;
+  d) Tout usage dans le cadre d'une prestation de services facturée.
+
+Pour passer en production, contacter :
+  → commercial@neomnia.net
+  → https://neomnia.net
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 5 — CONTRIBUTIONS
+═══════════════════════════════════════════════════════════════
+
+Toute contribution soumise à ce dépôt est réputée cédée sous les termes
+de la présente licence. Le contributeur garantit qu'il détient les droits
+nécessaires sur sa contribution et qu'elle ne viole aucun droit tiers.
+
+Neomnia Studio se réserve le droit d'intégrer les contributions dans la
+version commerciale (Kubinote-GitOps / NKPL), sans obligation de
+compensation financière, sauf accord explicite préalable.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 6 — PROPRIÉTÉ INTELLECTUELLE
+═══════════════════════════════════════════════════════════════
+
+Neomnia Studio reste propriétaire exclusif de l'ensemble des droits de
+propriété intellectuelle sur le Logiciel. Cette licence ne constitue
+aucune cession de droits.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 7 — EXCLUSION DE GARANTIE
+═══════════════════════════════════════════════════════════════
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE
+OU IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER LES GARANTIES DE QUALITÉ
+MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 8 — DROIT APPLICABLE
+═══════════════════════════════════════════════════════════════
+
+Droit français applicable. Tribunal compétent : Paris.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 9 — CONTACT
+═══════════════════════════════════════════════════════════════
+
+Neomnia Studio
+Email  : commercial@neomnia.net
+Web    : https://neomnia.net
+GitHub : https://github.com/neomnia
